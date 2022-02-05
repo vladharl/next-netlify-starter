@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Vote Vlad" />
+    <center>
     <form name="Questions/Comments" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
@@ -26,6 +27,7 @@ export default function Home() {
     <button type="submit">Send</button>
   </p>
 </form>
+    </center>
 
     </main>
 
