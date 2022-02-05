@@ -18,9 +18,9 @@ export default function Home() {
 	
 	<script>
   	hbspt.forms.create({
-	region: "na1",
-	portalId: "21400381",
-	formId: "bf045340-9975-452f-9435-c99515e7d48e"});
+	region="na1",
+	portalId="21400381",
+	formId="bf045340-9975-452f-9435-c99515e7d48e"});
 		</script>
     </main>
 
