@@ -8,10 +8,7 @@ export default function Home() {
       <Head>
         <title>Vlad Pavlyuk</title>
         <link rel="icon" href="/favicon.ico" />
-      </Head>
-
-      <main>
-        <Header title="Vote Vlad" />
+	          <Header title="Vote Vlad" />
 	  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script dangerouslySetInnerHTML={{ __html: `
        hbspt.forms.create({
@@ -20,6 +17,9 @@ export default function Home() {
            formId: "bf045340-9975-452f-9435-c99515e7d48e"
        });
      `}} />
+      </Head>
+
+      <main>
     </main>
 
       <Footer />
