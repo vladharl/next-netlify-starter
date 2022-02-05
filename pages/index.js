@@ -14,13 +14,13 @@ export default function Home() {
         <Header title="Vote Vlad" />
     	
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
+<script
   hbspt.forms.create({
 	region: "na1",
 	portalId: "21400381",
 	formId: "bf045340-9975-452f-9435-c99515e7d48e"
 });
-</script>
+></script>
     </main>
 
       <Footer />
