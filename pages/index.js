@@ -6,7 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Vlad Pavlyuk</title>
+        <center>
+	  <title>Vlad Pavlyuk</title>
         <link rel="icon" href="/favicon.ico" />
 	          <Header title="Vote Vlad" />
 	  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
@@ -18,7 +19,7 @@ export default function Home() {
        });
      `}} />
       </Head>
-
+        </center>
       <main>
     </main>
 
