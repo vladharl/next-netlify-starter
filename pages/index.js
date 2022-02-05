@@ -12,22 +12,14 @@ export default function Home() {
 
       <main>
         <Header title="Vote Vlad" />
-    <center>
-    <form name="Questions/Comments" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
-    </center>
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	region: "na1",
+	portalId: "21400381",
+	formId: "bf045340-9975-452f-9435-c99515e7d48e"
+});
+</script>
 
     </main>
 
