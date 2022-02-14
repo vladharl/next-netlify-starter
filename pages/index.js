@@ -6,7 +6,9 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+	  <center>
 	  <title>Vlad Pavlyuk</title>
+	  </center>
         <link rel="icon" href="/favicon.ico" />
 	          <Header title="Vote Vlad" />
 	  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
