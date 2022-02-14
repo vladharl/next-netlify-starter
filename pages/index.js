@@ -6,7 +6,6 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <center>
 	  <title>Vlad Pavlyuk</title>
         <link rel="icon" href="/favicon.ico" />
 	          <Header title="Vote Vlad" />
@@ -18,7 +17,6 @@ export default function Home() {
            formId: "bf045340-9975-452f-9435-c99515e7d48e"
        });
      `}} />
- </center>
 </Head>
        
       <main>
